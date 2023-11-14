@@ -1,7 +1,3 @@
-### Hi there 👋
-
-[![ApenJulius's stats]()](https://github.com/apenjulius/github-readme-stats)
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
