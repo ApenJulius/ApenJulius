@@ -8,13 +8,13 @@
       <img align="left" width=390 src="https://github-readme-stats-apenjulius-projects.vercel.app/api?username=apenjulius&include_all_commits=true&show_icons=true&theme=transparent"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="" />
+      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=transparent" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasolsen&show_icons=true&locale=en&layout=compact" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukasolsen&show_icons=true&locale=en&theme=transparent" />
     </a>
   </div>
   <br>
