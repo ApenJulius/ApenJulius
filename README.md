@@ -1,4 +1,4 @@
-<p float="left">
+<p>
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
         <img width=390 src="https://github-readme-stats-apenjulius-projects.vercel.app/api?username=apenjulius&include_all_commits=true&show_icons=true&theme=transparent"/>
