@@ -9,3 +9,6 @@
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=apenjulius&theme=transparent" align="right"/>
     </a>
 </p>
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width=325 src="https://github-readme-stats-apenjulius-projects.vercel.app/api/top-langs?username=apenjulius&show_icons=true&locale=en&theme=transparent&langs_count=20&card_width=325" align="left"/>
+</a>
