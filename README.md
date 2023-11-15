@@ -4,7 +4,7 @@
         <img width=390 src="https://github-readme-stats-apenjulius-projects.vercel.app/api?username=apenjulius&include_all_commits=true&show_icons=true&theme=transparent" align="right"/>
     </a>
 </p>
-<p>
+<p align="right">
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img width=390 height="153px" src="https://streak-stats.demolab.com/?user=apenjulius&theme=transparent" align="right"/>
     </a>
